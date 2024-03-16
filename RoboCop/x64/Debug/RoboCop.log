@@ -1,0 +1,5 @@
+﻿  Record.cpp
+  SonarSensor.cpp
+  Generating Code...
+NaoRobotAPI.lib(NaoRobotAPI.obj) : warning LNK4099: PDB '' was not found with 'NaoRobotAPI.lib(NaoRobotAPI.obj)' or at ''; linking object as if no debug info
+  RoboCop.vcxproj -> C:\Users\Win10\Desktop\oopproject\RoboCop\x64\Debug\RoboCop.exe
